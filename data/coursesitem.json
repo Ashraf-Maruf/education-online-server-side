@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "01",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "title": "Project management toolkit",
+    "image_url": "https://images.pexels.com/photos/3153201/pexels-photo-3153201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "details": "The Project Management Toolkit is a solution that offers an enterprise-ready project and portfolio management environment. It allows organisations to create a structure in which costs and time can be managed effectively, and information is made available to build a balanced and focused portfolio of projects.",
+    "price": "120"
+  },
+  {
+    "_id": "02",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "title": "Web App Development",
+    "image_url": "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "details": "Web app development empowers web-based projects to perform and act similarly to a mobile app. Web applications engage users, prioritizing responsive interactions, but are still delivered through the internet over a network.You can say that web app development is more or less the cool little brother of web development. Web development is why you’re on this very web page, but web app development is how all this got written in the first place. ",
+    "price": "130"
+  },
+  {
+    "_id": "03",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "title": "Software and Web Designing",
+    "image_url": "https://www.magictouchnet.com/wp-content/uploads/2019/01/Web-Development-Software.jpg",
+    "details": "Web designing is the creation of websites and pages to reflect a company’s brand and information and ensure a user-friendly experience. Appearance and design are incorporated as vital elements whether you’re designing a website, mobile app or maintaining content on a web page. You can learn web designing to create a site for your own business or become a professional web designer creating sites for clients. In this article, we explain what web designing is as well as common elements and uses.",
+    "price": "150"
+  },
+  {
+    "_id": "04",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "04",
+    "title": "Basic Computer Skills",
+    "image_url": "https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "details": "Basic computer skills refer to your ability to perform fundamental tasks on a computer. This can include understanding certain software, applications, programs and tools. Computer skills fall into two categories: software and hardware. Hardware refers to the computer's operation, whereas software involves the use of various programs and applications.",
+    "price": "120"
+  },
+  {
+    "_id": "05",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "05",
+    "title": "Mobile Application Development",
+    "image_url": "https://www.volumetree.com/wp-content/uploads/2019/11/App-development-process-Feature-image.jpg",
+    "details": "Mobile application development is the process of creating software applications that run on a mobile device, and a typical mobile application utilizes a network connection to work with remote computing resources. Hence, the mobile development process involves creating installable software bundles (code, binaries, assets, etc.) , implementing backend services such as data access with an API, and testing the application on target devices.",
+    "price": "150"
+  },
+  {
+    "_id": "06",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "06",
+    "title": "OOP Concepts in Real Life",
+    "image_url": "https://raygun.com/blog/images/oop-concepts-java/feature.png",
+    "details": "We’ll go over the fundamentals of Object-Oriented Programming and define terminology like abstraction, encapsulation, inheritance, and polymorphism in this post. To begin, OOP is a programming style that needs programmers to construct objects and use them throughout the program in functions that demand the use of such objects. The OOPs concepts with real-time examples are widely utilized in Java because it allows for code reusability while still preserving security.",
+    "price": "130"
+  }
+]
